@@ -1,19 +1,22 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [229] using StatReload
+INFO:     Started server process [231]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:43458 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:47194 - "GET /api/roadworks HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47180 - "GET /api/transit HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47180 - "GET /api/transit HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47194 - "GET /api/roadworks HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47204 - "GET /api/accidents HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47194 - "GET /api/accidents HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47206 - "GET /api/transit HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47212 - "GET /api/accidents HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47206 - "GET /api/roadworks HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46624 - "GET /api/accidents HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47212 - "GET /api/transit HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47206 - "GET /api/roadworks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34826 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:34846 - "GET /api/accidents HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34840 - "GET /api/transit HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34840 - "GET /api/transit HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34846 - "GET /api/accidents HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34862 - "GET /api/roadworks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34846 - "GET /api/roadworks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34884 - "GET /api/accidents HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34870 - "GET /api/transit HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34884 - "GET /api/roadworks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34870 - "GET /api/accidents HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49634 - "GET /api/transit HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34884 - "GET /api/roadworks HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49650 - "GET /api/transit HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49658 - "GET /api/accidents HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49666 - "GET /api/roadworks HTTP/1.1" 200 OK
